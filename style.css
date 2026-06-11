@@ -1,9 +1,23 @@
 @charset "UTF-8";
 
 body{
+
+    background-color: silver;
+}
+
+h1{
+    color: aqua;
+    font-size:45px;
+
     background-color:blue;
 }
 
+
 #main{
-    font-weight: bold;
+    font-weight: bold;}
+
+.aqua {
+    color: aqua;
+
+
 }
