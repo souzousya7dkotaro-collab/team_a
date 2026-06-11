@@ -3,3 +3,7 @@
 body{
     background-color:blue;
 }
+
+#main{
+    font-weight: bold;
+}
