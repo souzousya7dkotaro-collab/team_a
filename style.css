@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
 body{
-    background-color:blue;
+    background-color: silver;
+}
+
+h1{
+    color: aqua;
+    font-size:45px;
 }
